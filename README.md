@@ -1,2 +1,1 @@
-This is a bookstore web application.(source code)
-get
+This is
