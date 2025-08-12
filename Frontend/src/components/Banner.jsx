@@ -7,7 +7,7 @@ const Banner = () => {
         <div className="order-2 md:order-1 w-full md:w-[50%] mt-12  md:mt-32">
           <div className="space-y-12">
             <h1 className="text-4xl font-bold">
-              Hello, welcomes here to learn sommething{" "}
+              Hello, welcomes here to learn something{" "}
               <span className="text-pink-500 ">new everyday!!</span>
             </h1>
             <p className="text-xl">
