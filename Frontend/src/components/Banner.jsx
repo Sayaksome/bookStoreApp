@@ -37,7 +37,7 @@ const Banner = () => {
               <input type="email" placeholder="mail@site.com" required />
             </label>
           </div>
-          <button className="btn mt-6 btn-secondary">Secondary</button>
+          <button className="btn mt-6 btn-secondary">Get Started</button>
         </div>
         <div className="order-1 w-full md:w-[50%]  mt-12 md:mt-32">
           <img src={banner} className="h-[80%]" alt="" />
